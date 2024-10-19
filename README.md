@@ -1,7 +1,5 @@
-# RHCSA...
-the collection of practice questions and lab environment for ex200 from all around github...
-![image](repo-img/redhat.png)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT "MIT License")
+# RHCSA 9.3
+The collection of practice questionsfor RHCSA EX200
 
 <p align="center">
   <h1 align="center">Red Hat - EX200 (RHCSA)</h1>
