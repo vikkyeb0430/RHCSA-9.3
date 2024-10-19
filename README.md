@@ -1,5 +1,5 @@
 # RHCSA 9.3
-The collection of practice questionsfor RHCSA EX200
+The collection of practice questions for RHCSA EX200
 
 <p align="center">
   <h1 align="center">Red Hat - EX200 (RHCSA)</h1>
